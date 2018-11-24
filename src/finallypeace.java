@@ -6,8 +6,8 @@ public class finallypeace {
 		System.out.println("thanks");
 
 	}
-	public static void func() {
-		System.out.println("func1");
+	public static void func2() {
+		System.out.println("func2");
 	}
 
 }
