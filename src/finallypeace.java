@@ -6,5 +6,9 @@ public class finallypeace {
 		System.out.println("thanks");
 
 	}
+	
+	private static void func3() {
+		System.out.println("a");
+	}
 
 }
